@@ -1,0 +1,27 @@
+body {
+  font-family: sans-serif;
+  color: white;
+  background-color: rgb(73, 73, 108);
+  font-size: 18px;
+}
+
+form {
+  padding: 10px;
+  background-color: rgb(116, 116, 226);
+  border-radius: 20px;
+  margin: auto;
+  width: 500px;
+  text-align: center;
+}
+
+#result{
+  height: 12px;
+}
+
+#text-input{
+  margin-top:15px;
+}
+
+h1, #nb{
+  text-align: center;
+}
